@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install -y bind-utils
+yum install -y bind-utils tcpdump
